@@ -6,3 +6,5 @@ applications:
   name: SearchBluemix
   host: searchbluemix
   disk_quota: 1024M
+  services:
+  - Cloudant NoSQL DB-zk
